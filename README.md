@@ -44,8 +44,8 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
          
 <img height="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
-</p>
+
 
 <img height="40" src="https://user-images.githubusercontent.com/59692344/172137326-b7393a7b-1414-4238-ae99-def72445ab7c.png">
 
-
+</p>
