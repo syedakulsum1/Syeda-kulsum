@@ -23,6 +23,10 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 <h1 align="left">Languages and tools I use</h1> 
 <p>
+  
+<img height="50" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"> 
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> 
+  
 <img height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
   
