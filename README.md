@@ -9,8 +9,8 @@ Software Engineer
 
 Here are some ideas to get you started:
 
-* 🧠  I'm learning MERN Stack
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm Keen learner.
+<!-- * 🤝  I'm open to collaborating on interesting projects-->
 * ⚡  I have a Computer Engineering background.
 
 ### Connect with me :
