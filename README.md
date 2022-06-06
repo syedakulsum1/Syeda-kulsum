@@ -29,11 +29,11 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 <img height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
   
-<img height="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
+<img height="40" src="https://user-images.githubusercontent.com/59692344/172140649-5f0d5f37-95db-4069-9e5b-a1f7816eb6d0.png"> 
   
-<img height="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+<img height="40" src="https://user-images.githubusercontent.com/59692344/172140725-9bc7307d-37ff-4cea-b039-154a7e7f9f2b.png"> 
    
-   
+
 
    
 <img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
