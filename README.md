@@ -21,7 +21,7 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 ### :zap: My Tech Toolbox 🧰
 <img src="https://user-images.githubusercontent.com/59692344/172135025-599e1fce-c41e-45f5-a344-8e9ebd312d0c.gif">
 
-<h1 align="center">Languages and tools I use</h1> 
+<h1 align="left">Languages and tools I use</h1> 
 <p>
 <img height="30" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
