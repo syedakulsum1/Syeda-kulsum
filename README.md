@@ -7,10 +7,9 @@ Software Engineer
   <img src="https://user-images.githubusercontent.com/59692344/172132315-c69c47d0-4add-4af6-bfc1-203e2656d27b.gif" height="160px" width="100px" >
 </p>
 
-Here are some ideas to get you started:
 
 * 🧠  I'm Keen learner.
-<!-- * 🤝  I'm open to collaborating on interesting projects-->
+ * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm From Computer Engineering background.
 
 ### Connect with me :
