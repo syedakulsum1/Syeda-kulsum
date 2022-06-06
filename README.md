@@ -21,6 +21,37 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 ### :zap: My Tech Toolbox 🧰
 <img src="https://user-images.githubusercontent.com/59692344/172135025-599e1fce-c41e-45f5-a344-8e9ebd312d0c.gif">
 
-![line-neon](https://user-images.githubusercontent.com/59692344/172135487-90e96d57-6468-4aaa-b312-6dd01197bf97.gif)
+<h1 align="center">Languages and tools I use</h1> 
+<p>
+<img height="80" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
+  
+<img height="70" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
+   
+<img height="75" src="https://broadwayinfosys.com/uploads/courses/mongodb.png">
+
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
+
+<img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png">
+   
+<img height="75" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
+   
+<img height="55" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+  
+<img height="70" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"> 
+  
+<img height="67" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"> 
+   
+<img height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> 
+   
+<img height="80" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"> 
+   
+<img height="60" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
+  
+<img height="67" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+   
+<img height="67" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+         
+<img height="67" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
+</p>
 
 
