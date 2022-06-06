@@ -23,7 +23,7 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 <h1 align="center">Languages and tools I use</h1> 
 <p>
-<img height="80" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
+<img height="30" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png"> 
   
 <img height="70" src="https://miro.medium.com/max/900/1*HTy1M1eFC7GoW6odSukQVw.png">
    
