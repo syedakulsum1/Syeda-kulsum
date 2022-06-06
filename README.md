@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 * 🧠  I'm Keen learner.
 <!-- * 🤝  I'm open to collaborating on interesting projects-->
-* ⚡  I have a Computer Engineering background.
+* ⚡  I'm From Computer Engineering background.
 
 ### Connect with me :
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](
