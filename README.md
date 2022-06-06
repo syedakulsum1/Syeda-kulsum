@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](
 https://www.linkedin.com/in/mohammed-owez-217740172/)
 
+### Skills 
+
