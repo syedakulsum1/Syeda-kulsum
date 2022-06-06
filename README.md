@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> Owez 
 
 
-**mohammedowez/mohammedowez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me ![linkedin-icon](https://user-images.githubusercontent.com/59692344/172128364-3aad5961-e9bb-44a4-bdf2-8dd177b11804.svg)
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
