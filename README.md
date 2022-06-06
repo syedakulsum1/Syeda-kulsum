@@ -3,7 +3,7 @@
 Software Engineer
 -------------------
 
-<p align="center">  <img src="![1_ZSVmWGcc1weENb0ShawWxw](https://user-images.githubusercontent.com/59692344/172132065-fec22f44-0edf-4a53-8135-e7da65148b0f.gif)" height="200px" width="200px"> </p>
+<p align="center">  <img src="![1_ZSVmWGcc1weENb0ShawWxw](https://user-images.githubusercontent.com/59692344/172132065-fec22f44-0edf-4a53-8135-e7da65148b0f.gif)" height="400px" width="200px"> </p>
 
 Here are some ideas to get you started:
 
