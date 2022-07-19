@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> My Name is Mohammed Owez 
+### Hi <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="60px" height="60px" style="max-width:100%;"> My Name is Mohammed Owez 
 
 Software Engineer
 -------------------
