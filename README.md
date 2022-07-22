@@ -105,7 +105,7 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/redis.png" height="30"></code>
 
 ### Cloud/Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/aws.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/aws.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/lambda.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/s3.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/maven.png" height="30"></code>
