@@ -32,6 +32,8 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 <img height="40" src="https://user-images.githubusercontent.com/59692344/172140649-5f0d5f37-95db-4069-9e5b-a1f7816eb6d0.png"> 
   
 <img height="40" src="https://user-images.githubusercontent.com/59692344/172140725-9bc7307d-37ff-4cea-b039-154a7e7f9f2b.png"> 
+
+
    
 
 
@@ -46,5 +48,76 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 
 <img height="40" src="https://user-images.githubusercontent.com/59692344/172137326-b7393a7b-1414-4238-ae99-def72445ab7c.png">
+
+### Languages:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/java.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/python.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/js.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/ts.png" height="30"></code>
+
+### Web Development (Full-stack):
+
+#### •Backend/Server:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/j2ee.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/jsp.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/servlet.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-boot.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/hibernate.jpeg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/security.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/ldap.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/oauth.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/tomcat.jpg" height="30"></code>
+
+#### •Micro-Services:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rest.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rx.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/webflux.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/kafka.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/graphql.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/elastic.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/eureka.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/zuul.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/hystrix.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/seluth.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/zipkin.png" height="30"></code>
+
+#### •Frontend/UI:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/react.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/html.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/bt.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/thymeleaf.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/angular.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/jq.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/redux.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/ajax.png" height="30"></code>
+
+
+#### Database:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mysql1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/oracle.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mongo.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/dy.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/cas.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/redis.png" height="30"></code>
+
+### Cloud/Dev-Ops:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/aws.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/lambda.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/s3.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/maven.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/git.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/github.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/docker.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/ku.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/jenkins.jpg" height="30"></code>
+
+### •Others:
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/agile.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/jira.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" height="30"></code>
 
 </p>
