@@ -76,8 +76,7 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 
 #### •Micro-Services:
-<code><img src="![apim-page-animation-get-business-insights-and-intelligence-through-APIs](https://user-images.githubusercontent.com/59692344/180927250-d5dea8e3-7987-4821-b20f-734fb73c414c.gif)
-" height="40"></code>
+<code><img src="![1_J3G3akaMpUOLegw0p0qthA](https://user-images.githubusercontent.com/59692344/180927374-697666b4-074b-47b6-a0de-3d2b30bb0af5.png)" height="40"></code>
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rx.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/webflux.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/kafka.png" height="30"></code>
