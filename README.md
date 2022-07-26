@@ -62,7 +62,7 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 #### •Backend/Server:
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/j2ee.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/jsp.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/180926893-ce922da8-912d-4ea9-8c7d-d98a7149b0ed.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/servlet.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-1.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-boot.png" height="40"></code>
@@ -76,7 +76,8 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 
 
 #### •Micro-Services:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rest.png" height="40"></code>
+<code><img src="ht![images]()
+tps://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rest.png" height="40"></code>
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/rx.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/webflux.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/kafka.png" height="30"></code>
