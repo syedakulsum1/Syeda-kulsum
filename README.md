@@ -69,7 +69,6 @@ https://www.linkedin.com/in/mohammed-owez-217740172/)
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-boot.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/hibernate.jpeg" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/tomcat.jpg" height="40"></code>
-
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/security.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/ldap.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" height="40"></code>
