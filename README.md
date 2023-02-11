@@ -9,7 +9,7 @@ Software Engineer
 </p>
 
 
-* 🧠<img src="https://user-images.githubusercontent.com/59692344/218243121-61c934f2-b75b-4956-92c5-a0566bdead80.gif"  height="50px">  I'm Keen learner.
+* <code>🧠<img src="https://user-images.githubusercontent.com/59692344/218243121-61c934f2-b75b-4956-92c5-a0566bdead80.gif"  height="50px"></code> I'm Keen learner.
  * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm From Computer Engineering background.
 
