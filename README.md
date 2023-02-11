@@ -1,4 +1,5 @@
-### Hi <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="60px" height="60px" style="max-width:100%;"> My Name is Mohammed Owez 
+### Hi <img src="![waving-hand-joypixels](https://user-images.githubusercontent.com/59692344/218238035-dde907c5-34e7-4739-9135-60b97f9c58be.gif)" width="60px" height="60px" style="max-width:100%;"> My Name is Mohammed Owez 
+
 
 Software Engineer
 -------------------
@@ -14,7 +15,7 @@ Software Engineer
 
 ### Connect with me :
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](
-https://www.linkedin.com/in/mohammed-owez-217740172/)
+https://www.linkedin.com/in/mohammed-owez-2177401722/)
 
 ### Skills 
 ### :zap: My Tech Toolbox 🧰
