@@ -9,7 +9,7 @@ Software Engineer
 </p>
 
 
-* <code>🧠<img src="https://user-images.githubusercontent.com/59692344/218243121-61c934f2-b75b-4956-92c5-a0566bdead80.gif"  height="50px"></code> I'm Keen learner.
+* <code>🧠<img src="https://user-images.githubusercontent.com/59692344/218243215-68aeb04a-94e2-469e-8369-2d7576c45b19.gif"  height="50px"></code> I'm Keen learner.
  * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm From Computer Engineering background.
 
@@ -25,6 +25,7 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 <!--
 <p>
 
+![UnselfishOblongHoverfly-max-1mb]()
 
  <img height="50" src=""> 
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> 
