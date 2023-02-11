@@ -96,10 +96,11 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 
 
 #### •Frontend/UI:
+<code><img src="https://user-images.githubusercontent.com/59692344/218239996-2dc344b3-c6f8-436f-bdce-efcc81a9bbb4.jpg"  height="50px"></code>
 <code><img src="https://user-images.githubusercontent.com/59692344/218240025-97e936ff-b119-4959-8d37-09134b176712.png"  height="50px"></code>
 <!-- <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/html.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/css.png" height="40"></code> -->
-<code><img src="https://user-images.githubusercontent.com/59692344/218239996-2dc344b3-c6f8-436f-bdce-efcc81a9bbb4.jpg"  height="50px"></code>
+
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/jq.jpg" height="30"></code>
