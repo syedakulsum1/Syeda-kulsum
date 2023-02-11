@@ -79,7 +79,7 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/oauth.png" height="40"></code>-->
 
-![download (6)]()
+
 
 #### •Micro-Services:
 <code><img src="https://user-images.githubusercontent.com/59692344/218239833-be1d3bd9-9d3d-4de5-978c-943a39426192.png" width="50px" height="50px"></code>
