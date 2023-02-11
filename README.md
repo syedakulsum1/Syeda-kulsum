@@ -94,35 +94,39 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/seluth.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ms/zipkin.png" height="30"></code>-->
 
+
 #### •Frontend/UI:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/react.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/html.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/css.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/bt.jpg" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240025-97e936ff-b119-4959-8d37-09134b176712.png" width="50px" height="50px"></code>
+<!-- <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/html.png" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/css.png" height="40"></code> -->
+<code><img src="https://user-images.githubusercontent.com/59692344/218239996-2dc344b3-c6f8-436f-bdce-efcc81a9bbb4.jpg" width="100px" height="50px"></code>
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/redux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/ui/ajax.png" height="30"></code>-->
 
-
 #### Database:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mysql1.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/oracle.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/mongo.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240058-e8cad07f-3ab9-43c5-a6f9-f1e13901f013.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240107-4dd195d2-c730-4dfb-9abe-f461747cea70.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240120-0deb07ba-0a59-46d5-8eca-9059b4780607.png" height="40"></code>
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/dy.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/cas.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/db/redis.png" height="30"></code>-->
 
+
+
+
 ### Cloud/Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/aws.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/lambda.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/s3.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/maven.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/git.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/github.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/docker.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/jenkins.jpg" height="40"></code>
+<!-- <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/aws.png" height="40"></code> -->
+<code><img src="https://user-images.githubusercontent.com/59692344/218240217-3f09c512-b47a-42ee-8fe9-2b9259a1e777.jpg" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240219-061a913b-b46c-4466-b02e-7a264280c764.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240234-7c3d8a59-c7e6-4dc2-ab9b-a018d67d38a9.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240242-14fd7ae5-3b1b-41c3-817d-1ea949c1c9a6.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240246-f71ae34b-344d-4a82-8a5f-9a6f4f805505.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240273-5b0de090-e9da-41ba-9c62-6cf9cec2f6d6.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240286-a0b2ed10-5a34-49cf-960a-797014ad1225.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218240261-7661c317-f0f5-47ff-b429-846589c26d36.png" height="40"></code>
 <!-- <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/cloud/ku.jpg" height="30"></code>-->
 
 ### •Others:
