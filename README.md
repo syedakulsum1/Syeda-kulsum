@@ -1,5 +1,5 @@
 ### Hi <img src="![waving-hand-joypixels](https://user-images.githubusercontent.com/59692344/218238035-dde907c5-34e7-4739-9135-60b97f9c58be.gif)" width="60px" height="60px" style="max-width:100%;"> My Name is Mohammed Owez 
-
+![waving-hand-joypixels](https://user-images.githubusercontent.com/59692344/218238035-dde907c5-34e7-4739-9135-60b97f9c58be.gif)
 
 Software Engineer
 -------------------
