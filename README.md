@@ -67,13 +67,13 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 
 
 #### •Backend/Server:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/j2ee.png" height="40"></code>
+<!-- #### <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/j2ee.png" height="40"></code> -->
 <code><img src="https://user-images.githubusercontent.com/59692344/180926893-ce922da8-912d-4ea9-8c7d-d98a7149b0ed.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/servlet.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-1.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/spring-boot.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/hibernate.jpeg" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/backend/tomcat.jpg" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218239528-7e1af79c-82cd-42d7-a0a9-c618e7e6e9f5.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218239644-ec6e733b-13a8-4143-afa3-8fec4423b42a.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218239661-ae028b45-8bf4-4092-b485-d883fc559395.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218239682-d1217864-81ac-4f6d-9903-a6cf83f82c8c.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218239717-86b2ad2d-0a38-44bc-b85e-eb4f784ff1ae.png" height="40"></code>
 <!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/security.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/ldap.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/web/security/jwt.png" height="40"></code>
