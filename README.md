@@ -51,13 +51,16 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 
 
 <img height="40" src="https://user-images.githubusercontent.com/59692344/172137326-b7393a7b-1414-4238-ae99-def72445ab7c.png">
+![images]()
 -->
 
 ### Languages:
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/java.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218238408-52c0299c-87c4-48ec-a030-2dbb59c7d2a4.jpg" height="40"></code>
 <code><img src="https://user-images.githubusercontent.com/59692344/218238166-a24573f8-646e-41f6-ace0-b4258670340e.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/js.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/pl/c.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218238521-8d2c7846-4b99-4563-89d9-b42ea81b0f5e.png" height="40"></code>
+<code><img src="https://user-images.githubusercontent.com/59692344/218238462-14b7da34-bb54-413f-8b57-8f04211d7cf2.png" height="40"></code>
+
+
 
 
 <!--### Web Development (Full-stack):-->
