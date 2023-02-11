@@ -9,7 +9,7 @@ Software Engineer
 </p>
 
 
-* 🧠  I'm Keen learner.
+* 🧠<img src="https://user-images.githubusercontent.com/59692344/218243121-61c934f2-b75b-4956-92c5-a0566bdead80.gif"  height="50px">  I'm Keen learner.
  * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm From Computer Engineering background.
 
@@ -38,6 +38,7 @@ https://www.linkedin.com/in/mohammed-owez-2177401722/)
 
 
    
+![479ecf807f39fd0890a930d940f76f50]()
 
 
    
