@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Data + Analyst)](https://git.io/typing-svg)
 
-----------------------
+------------------
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59692344/172132315-c69c47d0-4add-4af6-bfc1-203e2656d27b.gif" height="200px" width="200px" >
 </p>
