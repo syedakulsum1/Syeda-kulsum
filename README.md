@@ -1,6 +1,6 @@
 ### Hi <img src="https://user-images.githubusercontent.com/59692344/218238035-dde907c5-34e7-4739-9135-60b97f9c58be.gif"  height="60px" style="max-width:100%;"> My Name is Syeda Umme Kulsum
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Software+Engineer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Data + Analyst)](https://git.io/typing-svg)
 
 -------------------
 
